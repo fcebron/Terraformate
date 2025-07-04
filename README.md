@@ -9,28 +9,7 @@ In the end, this script will also take a list of softwares you want to uninstall
 
 See actual [CHANGELOG](CHANGELOG.md) for the list of implemented features, and the TODO-list (unchecked changes in the changelog).
 
-
-## Installation
-
-Before all installation take a look at the "Disclaimer" in the bottom of this file to be sure that you are conscious of the potentials issues!
-
-The wget and graphical installations requires no other software than the already packed with your system (if not please notify me with an issue).
-
-
-### Wget installation
-Download and extract the latest version (chose between the 2 following ways to do so):
-
-- Zip file: ```wget https://github.com/fcebron/Terraformate/releases/tag/Terraformate_0.4.0.zip && unzip Terraformate_0.4.0.zip```
-- Tar.gz file : ```wget https://github.com/fcebron/Terraformate/releases/tag/Terraformate_0.4.0.tar.gz && tar zxvf Terraformate_0.4.0.tar.gz```
-
-Launch the script in super-user mode:
-
-```cd Terraformate && chmod +x terraformate.sh```
-
-```sudo ./terraformate.sh```
-
-
-### Graphical installation
+ERROR
 Download and extract the latest version:
 
 Click on the zip download in the main page of the repository. Then unzip the archive with your right-click tool and launch a terminal in the folder. Launch the script in super-user mode:
